@@ -1,0 +1,35 @@
+# langchain core
+langchain
+langchain-core
+
+# openai integration
+langchain-openai
+openai
+
+# anthropic integration
+langchain-anthropic
+
+# Google-gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Huggingface integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment variable management
+python-dotenv
+
+# Machine Learning utilities
+numpy
+scikit-learn
+
+# This module contains integrations like HuggingFaceHubEmbeddings, Chroma, FAISS, etc., 
+# which were previously under langchain.
+langchain-community
+
+streamlit
+pydantic
+grandalf
+pypdf
